@@ -3,7 +3,7 @@ Test Repository
 
 First feature
 
-Fix bughghfgh
+Fix bug
 
 New Issue
 
