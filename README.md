@@ -3,7 +3,7 @@ Test Repository
 
 First feature
 sdsdf
-Fix bughghfgh
+Fix bugfgh
 
 New Issue
 
