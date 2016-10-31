@@ -26,7 +26,3 @@ dfsdfghg
 shgdfhjgsdfsdf
 Issuejsdhghjd
 
-Kibana 1
-Kibana 2
-Kibana 3
-Kibana 4
